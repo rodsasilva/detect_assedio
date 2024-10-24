@@ -1,5 +1,5 @@
-# Det
-App para detecção de assédio moral
+# Detecção de assédio
+O objetivo do aplicativo é detectar e oferecer suporte para quem está sofrendo assédio moral.
 ```mermaid
 graph TD
     A[Usuário Acessa App] --> B[Login/Registro]
