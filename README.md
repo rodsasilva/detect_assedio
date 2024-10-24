@@ -52,4 +52,27 @@ Detecção de assédio/
 │
 └── docker-compose.yml       # Configuração dos containers
 ```
+# Stack Tecnológica
 
+## Frontend
+- React 18
+- Tailwind CSS
+- Shadcn/ui
+- React Query
+- React Router
+- Axios
+- Context API
+
+## Backend
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- Python-Jose (JWT)
+- OpenAI SDK
+- PostgreSQL
+
+## DevOps
+- Docker
+- Docker Compose
+- Nginx
+- Gunicorn
